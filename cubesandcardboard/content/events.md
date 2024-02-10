@@ -55,7 +55,7 @@ Garrett, Eric, Colten, Frank
 
 Player Pool:
 
-Eric, Frank, Wynn, Tim, Agustin, Steve, Robert, Jake
+Eric, Frank, Wynn, Tim, Agustin, Robert, Jake
 
 Signed Up:
 
@@ -74,7 +74,7 @@ SIGN UPS: Closed
 
 Player Pool:
 
-Garrett, Luke,  Eric, Colten, Frank, Wynn, Scott, Tim, Kevin, Agustin, Steve, Robert, Brett
+Garrett, Luke,  Eric, Colten, Frank, Wynn, Scott, Tim, Kevin, Agustin, , Steve, Robert, Brett
 
 Queue:
 
