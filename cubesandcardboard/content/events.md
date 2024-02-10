@@ -34,7 +34,7 @@ SIGN UPS: Closed
 
 Player Pool:
 
-Garrett, Luke,  Eric, Colten, Frank, Wynn, Scott, Tim, Kevin, Agustin, Steve, Robert, Brett
+Luke,  Eric, Colten, Frank, Wynn, Scott, Tim, Kevin, Agustin, Steve, Brett
 
 Queue:
 
