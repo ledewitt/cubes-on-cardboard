@@ -7,26 +7,6 @@ draft: false
 * Later dates are more likely to be modified, check messages or this page for latest changes
 * If game changes player count will be at least the previous amount.  All players will transfer.  If you are no longer interested in the new game just send me a message I'll take you off list.
 
-#### DATE: FEB 15 2024  
-HOST: Eric  
-FORMAT: Reserved Sign Up  
-SIGN UPS: Full  
-GAME: Shadows over Camelot  
-SPOTS AVAILABLE: 0  
-
-Signed Up:  
-
-1. Eric [H]
-2. Luke [O]
-3. Garrett
-4. Derek
-5. Kevin
-6. Brett
-7. Colten
-8. Scott
-
-------
-
 #### DATE: FEB 29 2024  
 HOST: Garrett  
 FORMAT: Open Game Night  
@@ -34,7 +14,7 @@ SIGN UPS: Closed
 
 Player Pool:
 
-Luke,  Eric, Colten, Frank, Wynn, Scott, Tim, Kevin, Agustin, Steve, Brett
+Luke, Eric, Colten, Frank, Wynn, Scott, Tim, Kevin, Agustin, Steve, Brett, Jake
 
 Queue:
 
@@ -55,9 +35,7 @@ Garrett, Eric, Colten, Frank
 
 Player Pool:
 
-Eric, Frank, Wynn, Tim, Agustin, Robert, Jake
-
-Signed Up:
+Garrett, Eric, Colten, Frank, Wynn, Scott, Tim, Kevin, Agustin, Robert, Brett, Jake
 
 1. Luke [H]
 2. [O]
@@ -74,9 +52,9 @@ SIGN UPS: Closed
 
 Player Pool:
 
-Garrett, Luke,  Eric, Colten, Frank, Wynn, Scott, Tim, Kevin, Agustin, , Steve, Robert, Brett
+Luke, Eric, Colten, Frank, Wynn, Scott, Tim, Kevin, Agustin, Steve, Robert, Brett, Jake
 
-Queue:
+Queue: Garrett
 
 ------
 
