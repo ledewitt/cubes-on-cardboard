@@ -10,15 +10,15 @@ draft: false
 #### DATE: FEB 29 2024  
 HOST: Garrett  
 FORMAT: Open Game Night  
-SIGN UPS: Closed  
+SIGN UPS: Open  
 
 Player Pool:
 
-Luke, Eric, Colten, Frank, Wynn, Scott, Tim, Kevin, Agustin, Steve, Brett, Jake
+Eric, Colten, Frank, Wynn, Scott, Tim, Kevin, Agustin, Steve, Brett, Jake
 
-Queue:
+Signed Up:
 
-Garrett, Robert
+Garrett, Robert, Luke
 
 ------
 
