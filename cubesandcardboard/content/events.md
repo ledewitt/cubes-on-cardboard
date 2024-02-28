@@ -14,11 +14,15 @@ SIGN UPS: Open
 
 Player Pool:
 
-Eric, Frank, Wynn, Scott, Tim, Kevin, Agustin, Steve, Brett, Jake
+Eric, Frank, Wynn, Tim, Kevin, Agustin, Steve, Brett
 
 Signed Up:
 
 Garrett, Robert, Luke, Colten
+
+Not making it:
+
+Scott, Jake
 
 ------
 
