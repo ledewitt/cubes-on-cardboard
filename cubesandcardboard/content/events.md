@@ -20,7 +20,7 @@ Signed Up:
 
 Garrett, Robert, Luke, Colten
 
-Not making it:
+Unable to attend:
 
 Scott, Jake
 
