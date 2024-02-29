@@ -21,15 +21,11 @@ SIGN UPS: Open
 GAME: Chinatown  
 SPOTS AVAILABLE: 1  
 
-Player Pool:
-
-Eric, Wynn, Scott, Tim, Kevin, Agustin, Robert, Brett, Jake
-
 1. Luke [H]
 2. Colten [O]
 3. Garrett
 4. Frank
-5.
+5. Scott
 
 ------
 
@@ -59,7 +55,7 @@ Garrett, Eric, Frank
 
 Player Pool:
 
-Eric, Colten, Wynn, Scott, Tim, Kevin, Agustin, Robert, Brett, Jake
+Eric, Colten, Wynn, Tim, Kevin, Agustin, Robert, Brett, Jake
 
 Signed Up:
 
