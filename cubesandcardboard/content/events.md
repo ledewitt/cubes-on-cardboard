@@ -19,7 +19,7 @@ HOST: Luke
 FORMAT: Reserved Sign Up  
 SIGN UPS: Open  
 GAME: Chinatown  
-SPOTS AVAILABLE: 1  
+SPOTS AVAILABLE: 0  
 
 1. Luke [H]
 2. Colten [O]
