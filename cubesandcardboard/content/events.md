@@ -55,11 +55,11 @@ SPOTS AVAILABLE: 4
 
 Organizer Pool:
 
-Garrett, Eric, Colten, Frank
+Garrett, Eric, Frank
 
 Player Pool:
 
-Garrett, Eric, Colten, Frank, Wynn, Scott, Tim, Kevin, Agustin, Robert, Brett, Jake
+Eric, Colten, Wynn, Scott, Tim, Kevin, Agustin, Robert, Brett, Jake
 
 Signed Up:
 
