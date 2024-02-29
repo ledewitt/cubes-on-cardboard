@@ -42,8 +42,8 @@ Player Pool:
 Garrett, Eric, Colten, Frank, Wynn, Scott, Tim, Kevin, Agustin, Robert, Brett, Jake
 
 1. Luke [H]
-2. [O]
-3. 
+2. Colten [O]
+3. Garrett
 4. 
 5.
 
