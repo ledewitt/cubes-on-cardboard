@@ -31,7 +31,7 @@ HOST: Luke
 FORMAT: Reserved Sign Up  
 SIGN UPS: Open  
 GAME: Chinatown  
-SPOTS AVAILABLE: 4  
+SPOTS AVAILABLE: 2  
 
 Organizer Pool:
 
