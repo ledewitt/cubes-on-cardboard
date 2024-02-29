@@ -63,7 +63,7 @@ HOST: Luke
 FORMAT: Reserved Sign Up  
 SIGN UPS: Open  
 GAME: Evolution Climate  
-SPOTS AVAILABLE: 5  
+SPOTS AVAILABLE: 4  
 
 Organizer Pool:
 
