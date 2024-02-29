@@ -19,16 +19,16 @@ HOST: Luke
 FORMAT: Reserved Sign Up  
 SIGN UPS: Open  
 GAME: Chinatown  
-SPOTS AVAILABLE: 2  
+SPOTS AVAILABLE: 1  
 
 Player Pool:
 
-Eric, Frank, Wynn, Scott, Tim, Kevin, Agustin, Robert, Brett, Jake
+Eric, Wynn, Scott, Tim, Kevin, Agustin, Robert, Brett, Jake
 
 1. Luke [H]
 2. Colten [O]
 3. Garrett
-4. 
+4. Frank
 5.
 
 ------
