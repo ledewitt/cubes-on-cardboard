@@ -7,22 +7,10 @@ draft: false
 * Later dates are more likely to be modified, check messages or this page for latest changes
 * If game changes player count will be at least the previous amount.  All players will transfer.  If you are no longer interested in the new game just send me a message I'll take you off list.
 
-#### DATE: FEB 29 2024  
+#### DATE: FEB 29 2024 !!! CANCELED !!!
 HOST: Garrett  
 FORMAT: Open Game Night  
-SIGN UPS: Open  
-
-Player Pool:
-
-* Eric, Frank, Wynn, Tim, Kevin, Agustin, Brett
-
-Signed Up:
-
-* Garrett, Robert, Luke, Colten, Steve
-
-Unable to attend:
-
-* Scott, Jake
+SIGN UPS: Unavailable  
 
 ------
 
