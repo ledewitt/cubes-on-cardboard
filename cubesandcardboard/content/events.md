@@ -7,7 +7,7 @@ draft: false
 * Later dates are more likely to be modified, check messages or this page for latest changes
 * If game changes player count will be at least the previous amount.  All players will transfer.  If you are no longer interested in the new game just send me a message I'll take you off list.
 
-#### DATE: FEB 29 2024 !!! CANCELED !!!
+#### DATE: FEB 29 2024 !!! CANCELED !!!  This is a test of the DNS system
 HOST: Garrett  
 FORMAT: Open Game Night  
 SIGN UPS: Unavailable  
