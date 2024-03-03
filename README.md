@@ -7,16 +7,16 @@ This has a website buried one folder deeper and here are some thoughts for thing
 * Blog Pages
 	- Pictures how to remove metadata before adding to blog entry
 	- 100% static or can you pull data about scores and such from elsewhere?
+	- Rules for Events and signing up
+	- Links, which ones and where
+	- Overall leader board (is it worth it? how would that even work?)
 
 Formatting 
 - Sidebar
 - Icon
 - Header
 - Pagination? How and over what, do I need subcategories.
-- Links, which ones and where
-- Rules for Events and signing up
 - Footer
-- Overall leader board (is it worth it? how would that even work?)
 - Light Dark theme worked out
 - Bootstrap (look into for individual pieces of page)
 
