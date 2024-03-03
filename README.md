@@ -20,7 +20,7 @@ Events
 - Anyway to separate out Thursday games into sub lists for games over the weekends
 - Game Day announcements, how would those differ
 - Knight's roles
-  - Organizer
+	- Organizer
 	- Host
 	- Player
 	- Rules Knight (A role for a knight that will teach the proposed game)
