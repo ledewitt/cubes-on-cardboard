@@ -14,6 +14,10 @@ Formatting
 - Links, which ones and where
 - Rules for Events and signing up
 - Footer
+- Pictures how to remove metadata before adding to blog entry
+- Overall leader board (is it worth it? how would that even work?)
+- Light Dark theme worked out
+- Bootstrap (look into for individual pieces of page)
 
 Events
 - Players into subgroups
